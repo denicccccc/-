@@ -12,3 +12,9 @@
 .modal{
    background-color: aqua; 
 }
+.thumb{
+    border: 10px solid aquamarine;
+    width: 650px;
+ border-radius: 50px;
+overflow: hidden;
+}
